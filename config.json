@@ -1,0 +1,5 @@
+{
+    "token": "OTI2NzM1ODg4OTMzODcxNjI2.YdAADQ.RydnMyh6HmpY3bjtIERqyiDoPTo",
+    "prefix": ">>",
+    "mongooseConnectionString": "mongodb+srv://boatengine:boat1234@cluster0.e0ylv.mongodb.net/test"
+}
